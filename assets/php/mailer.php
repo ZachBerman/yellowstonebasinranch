@@ -24,7 +24,7 @@
         $recipient = "info@beartoothgroup.com";
 
         // Set the email subject.
-        $subject = "Teton Timbers Contact Form Inquiry";
+        $subject = "Yellowstone Basin Contact Form Inquiry";
 
         // Build the email content.
         $email_content = "Name: $name\n";
