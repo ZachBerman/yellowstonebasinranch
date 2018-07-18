@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="YBR___Post_Acquisition" id="YBR___Post_Acquisition">
+	<SimpleField name="tessellate" type="int"></SimpleField>
+</Schema>
+<Folder><name>YBR___Post_Acquisition</name>
+  <Placemark>
+	<name>YBR - Post Acquisition</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#YBR___Post_Acquisition">
+		<SimpleData name="tessellate">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-111.225292519703,44.7156400879816 -111.225334396977,44.7047156084701 -111.215147457315,44.7047810315746 -111.215117842607,44.7105322071303 -111.210067290459,44.7110578029419 -111.210085602977,44.711917373012 -111.215127820369,44.7120411351186 -111.215148625351,44.7192358974623 -111.220224183058,44.7192246273623 -111.220189237237,44.7156568242805 -111.225292519703,44.7156400879816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
